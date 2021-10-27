@@ -1,1 +1,2 @@
-Replace the filler text with a link to your GitHub profile 
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
